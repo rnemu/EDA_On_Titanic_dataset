@@ -28,5 +28,5 @@ To run the analysis, you'll need to have Python installed along with the followi
 ## Usage
 Run the Jupyter Notebook to see the analysis:
 ```bash
-jupyter notebook Titanic_EDA.ipynb
+EDA_On_Titanic_data.ipynb
 
