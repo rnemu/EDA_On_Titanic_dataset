@@ -31,7 +31,7 @@ You can install the required libraries using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn
 
-## Usage
+## Installation
 Run the Jupyter Notebook to see the analysis:
 ```bash
 jupyter notebook Titanic_EDA.ipynb
