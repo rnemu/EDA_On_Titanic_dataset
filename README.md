@@ -25,13 +25,7 @@ To run the analysis, you'll need to have Python installed along with the followi
 - matplotlib
 - seaborn
   
-
-You can install the required libraries using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-
-## Installation
+## Usage
 Run the Jupyter Notebook to see the analysis:
 ```bash
 jupyter notebook Titanic_EDA.ipynb
