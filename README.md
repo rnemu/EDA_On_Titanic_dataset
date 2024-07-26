@@ -35,7 +35,6 @@ The EDA notebook covers the following:
 2. **Data Cleaning**:
 - Handle missing values
 - Convert categorical variables to numeric
-- Feature engineering
 
 3. **Exploratory Data Analysis**:
 - Univariate analysis (distribution of individual variables)
